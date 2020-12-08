@@ -1,14 +1,15 @@
-import React from 'react'
+import React from "react";
+import './Feature.css'
 
 const Feature = () => {
   return (
-    <div className="profile-details-featured-article">
-          <div> 
-            <h6>Featured Articles</h6>
-          </div>        
-          <h4>Natural mood regulation low or even absent in people with depression</h4>
-        </div>
-  )
-}
+    <div className="featured-article">      
+      <p>Featured Articles</p>
+      <h5>
+        Natural mood regulation low or even absent in people with depression
+      </h5>
+    </div>
+  );
+};
 
-export default Feature
+export default Feature;

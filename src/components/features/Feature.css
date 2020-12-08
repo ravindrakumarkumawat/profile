@@ -1,1 +1,15 @@
-rafce
+.featured-article {
+  color: #fff;
+  background-color: #77929D;
+  width: 550px;
+  border-radius: 30px;
+  padding: 30px;
+}
+
+.featured-article p {
+  background-color: #3D646C;
+  padding: 10px;
+  width: 140px;
+  border-radius: 5px;
+}
+

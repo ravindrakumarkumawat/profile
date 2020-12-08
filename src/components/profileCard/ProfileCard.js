@@ -4,6 +4,7 @@ import UserInfo from "../userinfo/UserInfo";
 import Achievement from "../achievements/Achievement";
 import Buttons from "../buttons/Buttons";
 import Article from "../articles/Article";
+import Feature from "../features/Feature";
 
 const ProfileCard = () => {
   return (
@@ -22,6 +23,7 @@ const ProfileCard = () => {
         <Buttons />
       </div>
       <Article />
+      <Feature />
     </>
   );
 };
