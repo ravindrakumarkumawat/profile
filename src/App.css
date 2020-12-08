@@ -8,7 +8,7 @@
   height: 25vh;
   border: 2px solid #ccc;
   background-color: #8290aa;
-  border-radius: 0 0 30px 30px;
+  border-radius: 0 0 30px 30px;  
 }
 
 
@@ -27,4 +27,24 @@
 /* user-achivements */
 .user-achivements {
   display: flex;
+}
+
+/* article-container */
+.article-container {
+  display: flex;
+}
+
+/* article-details */
+.article-details {
+  width: 250px;
+}
+
+.article-details img{
+ width: 250px;
+ height: 150px;
+}
+
+/* profile-details-featured-article */
+.profile-details-featured-article {
+  
 }
