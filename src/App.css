@@ -1,0 +1,30 @@
+.profile {
+  border: 2px solid #ccc;
+  margin: 20px;
+  height: 95vh;
+}
+
+.profile-details-header {
+  height: 25vh;
+  border: 2px solid #ccc;
+  background-color: #8290aa;
+  border-radius: 0 0 30px 30px;
+}
+
+
+/* profile-details-card-details */
+
+.profile-details-card-details {
+  display: flex;
+}
+
+/* profile-details-card-info */
+.profile-details-card-info {
+  display: flex;
+  flex-direction: column;
+}
+
+/* user-achivements */
+.user-achivements {
+  display: flex;
+}
