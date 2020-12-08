@@ -1,0 +1,12 @@
+.user-achivements {
+  display: flex;
+  justify-content:space-around;
+  background-color: #F2F5FA;
+  border-radius: 5px;
+}
+
+.user-achivements p {
+  font-size: 10px;
+  color: #CDD4DA;
+  margin: 0;
+}
