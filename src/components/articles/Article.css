@@ -1,0 +1,32 @@
+.article {
+  background-color: #fff; 
+  margin-top: 20px;
+}
+
+.article p {
+  color: #CDD4DA;
+  margin: 0;
+}
+
+.article h4 {
+  font-size: 18px;  
+  margin: 0;
+}
+
+.article-slider {
+  display: flex;
+  margin: 20px;
+  width: 200px;
+}
+.article-details {
+  margin-right: 10px; 
+}
+.article-details img {
+  width: 200px;
+  height: 150px;
+  border-radius: 5px;
+}
+
+.article-details h5 {
+  font-size: 15px;
+}
