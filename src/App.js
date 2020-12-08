@@ -5,7 +5,10 @@ import ProfileCard from './components/profileCard/ProfileCard';
 function App() {
   return (
     <div className="profile">
-      <ProfileCard />
+      <div className="profile-overlay">
+        <div className="profile-box"></div>
+        <ProfileCard />
+      </div>
       <Account />
     </div>
   );

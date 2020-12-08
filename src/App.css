@@ -1,5 +1,4 @@
 .profile {
-  background-color: #fff;
   color: black;
   margin: 30px;
 }
@@ -7,4 +6,15 @@
 .profile {
   display: flex;
   justify-content: space-around;
+}
+
+.profile-box {
+  height: 200px;
+  background-color: #7686A0;
+  border-radius: 0 0 30px 30px;
+  margin-bottom: -100px;
+}
+
+.profile-overlay {
+  width: 650px;  
 }
