@@ -8,7 +8,7 @@ import Feature from "../features/Feature";
 
 const ProfileCard = () => {
   return (
-    <>
+    <div>
       <div className="profile-container">
         <div className="profile-card">
           <img
@@ -24,7 +24,7 @@ const ProfileCard = () => {
       </div>
       <Article />
       <Feature />
-    </>
+    </div>
   );
 };
 
