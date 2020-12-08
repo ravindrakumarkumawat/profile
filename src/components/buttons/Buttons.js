@@ -1,10 +1,11 @@
 import React from 'react'
 import { Button } from 'reactstrap'
+import './Buttons.css'
 
 const Buttons = () => {
   return (
     
-    <div className="profile-details-card-button">
+    <div className="profile-button">
     <Button outline color="primary">Chat</Button>
     <Button color="primary">Follow</Button>
   </div>
